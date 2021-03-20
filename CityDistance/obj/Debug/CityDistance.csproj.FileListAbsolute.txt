@@ -1,0 +1,10 @@
+C:\Users\11333\Desktop\CityDistance\CityDistance\obj\Debug\CityDistance.csprojAssemblyReference.cache
+C:\Users\11333\Desktop\CityDistance\CityDistance\obj\Debug\CityDistance.Form1.resources
+C:\Users\11333\Desktop\CityDistance\CityDistance\obj\Debug\CityDistance.Properties.Resources.resources
+C:\Users\11333\Desktop\CityDistance\CityDistance\obj\Debug\CityDistance.csproj.GenerateResource.cache
+C:\Users\11333\Desktop\CityDistance\CityDistance\obj\Debug\CityDistance.csproj.CoreCompileInputs.cache
+C:\Users\11333\Desktop\CityDistance\CityDistance\bin\Debug\CityDistance.exe.config
+C:\Users\11333\Desktop\CityDistance\CityDistance\bin\Debug\CityDistance.exe
+C:\Users\11333\Desktop\CityDistance\CityDistance\bin\Debug\CityDistance.pdb
+C:\Users\11333\Desktop\CityDistance\CityDistance\obj\Debug\CityDistance.exe
+C:\Users\11333\Desktop\CityDistance\CityDistance\obj\Debug\CityDistance.pdb
